@@ -5,4 +5,8 @@ require 'pry'
 
 # REQUIRED FILES
 
-require "./cocktails/version"
+require_relative "./cocktails/version"
+require_relative "./cocktails/scraper"
+require_relative "./cocktails/cocktail-list"
+require_relative "./cocktails/cli"
+

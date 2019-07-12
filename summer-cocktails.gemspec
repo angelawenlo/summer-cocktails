@@ -5,7 +5,7 @@ require "cocktails/version"
 Gem::Specification.new do |spec|
   spec.name          = "summer-cocktails"
   spec.version       = CocktailsApp::VERSION
-  spec.authors       = ["Write your name"]
+  spec.authors       = ["Angela Lo"]
   spec.email         = ["angelawenlo@gmail.com"]
 
   spec.summary       = %q{Write a short summary, because RubyGems requires one.}
